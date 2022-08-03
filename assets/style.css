@@ -1,0 +1,85 @@
+.sectionsearchandtoday {
+    display: flex;
+}
+
+
+.navbar{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#current{
+    /* border: 5px solid blue; */
+    width: 100%;
+}
+
+.searchbtn {
+    margin: 10px;
+
+}
+
+#borders { 
+    margin: 10px;
+}
+
+.cityinput {
+    margin: 10px;
+}
+
+
+
+p{
+    padding-left: 8px;
+}
+
+.currentcityname{
+    margin-top: 5%;
+}
+
+.uvindex{
+    margin-bottom: 5%;
+}
+
+button {
+    display: block;
+}
+
+#leftsection{
+    width: 20%;
+
+}
+
+#cityname{
+    width: 80%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(97, 197, 203, 0.482);
+    font: bold;
+}
+
+#cityname:hover {
+    background-color: rgb(53, 110, 113);
+}
+
+#containscards { 
+
+    width: 100%;
+    /* border: 5px solid blue; */
+}
+
+section {
+    /* border: 5px solid blue; */
+}
+
+#cardsection{ 
+    width: 18%;
+    display: inline-block;
+    background-color: rgb(47, 107, 107);
+    color: white;
+    margin: 1%;
+    border-radius: 3px;
+}
